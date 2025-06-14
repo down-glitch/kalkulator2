@@ -63,7 +63,7 @@ Aplikasi **kalkulator sederhana berbasis Flutter** yang memiliki fitur:
 
 ## 👤 Profil Pembuat
 
-**Nama:** Lutfi Faisal Nur Arkarna
+**Nama:** Ridwan Nur Alif
 
 
 
