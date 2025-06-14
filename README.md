@@ -32,7 +32,7 @@ Aplikasi **kalkulator sederhana berbasis Flutter** yang memiliki fitur:
 2. Buka terminal, lalu clone repositori:
 
    ```bash
-   git clone https://github.com/sall0908/calculator2 calculator
+   git clone https://github.com/down-glitch/kalkulator2 calculator
    ```
 
 3. Masuk ke folder proyek:
