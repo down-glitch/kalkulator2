@@ -67,6 +67,6 @@ Aplikasi **kalkulator sederhana berbasis Flutter** yang memiliki fitur:
 
 
 
-https://github.com/user-attachments/assets/068de2f7-b5d1-473d-a1af-bdeda51a110f
+[https://github.com/user-attachments/assets/068de2f7-b5d1-473d-a1af-bdeda51a110f](https://github.com/down-glitch/kalkulator2/issues/1#issue-3146038035)
 
 
