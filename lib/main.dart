@@ -308,11 +308,11 @@ class _MainScreenState extends State<MainScreen> {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Lutfi Faisal Nur Arkarna',
+              'Ridwan nur alif',
               style: TextStyle(fontSize: 24, color: Colors.white),
             ),
             const Text(
-              'Contact : icalll@gmail.com',
+              'Contact : ridwan@gmail.com',
               style: TextStyle(fontSize: 18, color: Colors.white60),
             ),
           ],
